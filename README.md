@@ -10,7 +10,7 @@ The Plex Media Server enriches your life by organizing all your personal media, 
 # Run the application
 The ```PUID``` and ```PGID``` values are not necessary for unRAID 6.
 ## Usage
-Please replace all user variables in the above command defined by ```<>``` with the correct values.
+Please replace all user variables in the below command defined by ```<>``` with the correct values.
 ```
 docker run -d \
   --net="host" \
