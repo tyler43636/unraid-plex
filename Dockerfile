@@ -2,7 +2,7 @@ FROM ubuntu:14.04
 
 MAINTAINER Tyler Payne <tyler43636@gmail.com>
 
-ENV VERSION 1.3.4.3285-b46e0ea
+ENV VERSION 1.4.3.3433-03e4cfa35
 
 # add supervisor file for application
 ADD plexmediaserver.conf /etc/supervisor/conf.d/
